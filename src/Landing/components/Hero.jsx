@@ -10,7 +10,7 @@ const Hero = () => {
 		<div className="bg-black text-white font-bangla">
 			<div className="max-w-[1200px] mx-auto flex flex-col items-center justify-center">
 				<div className="py-4 md:py-8">
-					<img src="./public/new_banner.jpeg" alt="banner" />
+					<img src="/new_banner.jpeg" alt="banner" />
 				</div>
 				<HeroComponent />
 				<div className="w-full py-14">
